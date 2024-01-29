@@ -4,9 +4,10 @@
 Team Name: Web Weavers
 
 Team Members:
-* Sai Sere Korrapati
+* Sai Sree Korrapati
 * Pooja Sri Tripuraneni
 * Timothy Ramer
+* Aditya Mallakula
 
 ## Synopsis
 This Dynamic recipe website allows users to easily find various recipes. The site provides an engaging visual experience, featuring images, detailed cooking instructions, and the videos of each recipe. Registered users can save and view their favorite recipes from the profile. Agile methodology would be used for iterative development to emphasize continuous feedback and improvement.
