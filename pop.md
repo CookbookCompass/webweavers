@@ -21,7 +21,7 @@ Successfully completing the recipe website project will have great impact on stu
   * Lead: Pooja Sri Tripuraneni
 
 * Search results page: Contains Recipe grid/list, Filter Section, Recipe card
-  * Lead: Sai Sree Korrapati
+  * Lead: Sai Sree Korrapati, Aditya Mallakula
 
 * Registration & login page: Contains Registration form, Authentication, Error handling.
   * Lead: Timothy Ramer
@@ -30,4 +30,4 @@ Successfully completing the recipe website project will have great impact on stu
   * Lead: Aditya Mallakula
 
 * Profile page: Contains User information, list of favorite recipes, settings, logout option.
-  * Lead: Aditya Mallakula
+  * Lead: Sai Sree Korrapati
