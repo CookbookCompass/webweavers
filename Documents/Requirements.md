@@ -28,6 +28,17 @@ REQUIREMENTS
         * Should provide a list of step-by-step instructions for recipe.
         * Should have video of recipe if available.
         * Include a favorite button for registered users to save recipes.
+   * Profile Page
+        * Display user information on the profile page.
+        * List the user's favorite recipes.
+        * Provide settings options for users to customize their profiles.
+        * Include a logout option for users to securely logout.
+   * Agile Methodology Integration
+        * Incorporate Agile methodologies for iterative development.
+        * Implement features in iterations, allowing for continuous feedback and improvement.
+        * Use a version control system for collaboration, enabling branching and code management.
+   * Responsiveness
+        * Ensure the website is responsive, providing a seamless experience across all devices.
    
         
 3. TECHNICAL REQUIREMNETS
