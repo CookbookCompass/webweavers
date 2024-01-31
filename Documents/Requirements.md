@@ -43,3 +43,17 @@ REQUIREMENTS
         
 3. TECHNICAL REQUIREMNETS
 
+   * Frontend:
+      * Programming Languages: Use HTML, CSS, JavaScript (ES6+), and potentially a back-end language (Node.js) if required.
+      * Front-end Framework: Use a front-end framework such as React for efficient component-based development.
+      * Version Control: Utilize Git for version control, with a code repository hosted on GitHub.
+   * Database & data:
+      * Database System: An appropriate database system - MySQL for storing recipe data, user information, and other relevant data.
+      * Data Sources: Identify and integrate data sources, which may include APIs for recipe data and user authentication.
+      * Data Models: Define database schema and data models to organize and store information efficiently.
+   * Backend:
+      * Back-end Framework: If a back-end is needed for user authentication or other server-side functionality, select an appropriate back-end framework like express.js.
+      * Authentication: Implement secure user authentication using libraries or frameworks like Firebase Authentication.
+   * Deployment and Infrastructure:
+      * Web Hosting: Choose a reliable web hosting provider (e.g., AWS, Heroku, Netlify, Vercel) for hosting both front-end and back-end components.
+      * Domain Name: Register a domain name for the website and configure DNS settings to point to the hosting environment.
