@@ -2,6 +2,14 @@ REQUIREMENTS
 
 1. NON-FUNCTIONAL REQUIREMENTS
    
+   * Image embedding
+      * Show thumbnails when searching for dishes
+      * Ensure that the used thumbnails correspond to a full-sized image
+      * Image captioning is also required
+   * Auto-logout
+      * Used to ensure security of the account on all devices
+      * An internal timer will be used to measure the length of user interactability
+      * If no user interaction is detected after one hour the website will logout the user
 2. FUNCTIONAL REQUIREMENTS
 
    * User Authentication
