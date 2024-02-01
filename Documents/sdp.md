@@ -13,6 +13,6 @@ The development methodology for recipe website project will follow an agile appr
 ## Milestones
 Milestone 1: Project Setup and Planning (Jan 16 - Jan 23)
 * Tasks:
-  Set up the project repository on GitHub.
-  Select the front-end and back-end frameworks.
-  Plan the initial sprints and tasks.
+  * Set up the project repository on GitHub.
+  * Select the front-end and back-end frameworks.
+  * Plan the initial sprints and tasks.
