@@ -26,6 +26,10 @@ The development methodology for recipe website project will follow an agile appr
   * Write the code to implement the design.
   * Commit the changes to github repo.
   * Test the code and functionality.
+* Milestone 4: Home Page Development (Feb 17 to Feb 24)
+  * Design and implement the home page layout.
+  * Commit the changes to project repo.
+  * Test the code and functionality.
   
     
  
