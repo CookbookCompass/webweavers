@@ -30,6 +30,16 @@ The development methodology for recipe website project will follow an agile appr
   * Design and implement the home page layout.
   * Commit the changes to project repo.
   * Test the code and functionality.
+* Milestone 5: Search Results and Recipe Cards (Feb 25 to March 2)
+  * Design and implement the search reults page.
+  * Develop the recipe cards with relevant information.
+  * Commit the changes to project repo.
+  * Test the code and functionality.
+* Milestone 6: Recipe Information Page (March 3 to March 10)
+  * Design and implement the recipe information page.
+  * Commit the changes to github repo.
+  * Test the code and functionality.
+
   
     
  
