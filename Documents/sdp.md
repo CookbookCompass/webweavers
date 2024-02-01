@@ -11,4 +11,8 @@
 The development methodology for recipe website project will follow an agile approach. Agile methodologies allow for iterative development, emphasizing continuous feedback and improvement. It provides flexibility and adaptability to changes in requirements, fostering a collaborative and responsive development process.
 
 ## Milestones
-* Important Milestones that some combine the development methodology with constraints you cannot change (e.g., how long the course is).
+Milestone 1: Project Setup and Planning (Jan 16 - Jan 23)
+* Tasks:
+  Set up the project repository on GitHub.
+  Select the front-end and back-end frameworks.
+  Plan the initial sprints and tasks.
