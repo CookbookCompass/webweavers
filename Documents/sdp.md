@@ -39,7 +39,17 @@ The development methodology for recipe website project will follow an agile appr
   * Design and implement the recipe information page.
   * Commit the changes to github repo.
   * Test the code and functionality.
-
+* Milestone 7: Profile Page and Settings (March 11 to March 18)
+  * Design and develop the user profile page.
+  * Commit the changes to github repo.
+  * Test the code and functionality.
+* Milestone 8: Agile Methodology Integration and Testing (March 19 to March 26)
+  * Incorporate agile methodologies for iterative development.
+  * Implement features in iterations for continuous feedback.
+  * Perform testing and bug fixing.
+* Milestone 9: Deployment and Documentation (March 27 to April 4)
+  * Consolidate and deploy the website.
+  * Document the entire development process.
 
   
     
