@@ -20,3 +20,5 @@
 - Integrate backend functionalites with front end pages.
 - Ensure all core functinalities are implemented and functional.
 - Prepare the system for subsequent enhancements and testing.
+
+## Timeline: 2 Weeks (2/23/2024 - 3/7/2024)
