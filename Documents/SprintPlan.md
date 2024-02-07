@@ -13,3 +13,10 @@
   - Build a working prototype with basic functionality that can navigate user through all pages.
  
 ## Timeline: 2 Weeks (2/9/2024 - 2/22/2024)
+
+## Sprint 2: Core Functionality Implementation
+- Complete backend development, including user registration, authentication and profile management.
+- Implement database setup and ensure proper data handling.
+- Integrate backend functionalites with front end pages.
+- Ensure all core functinalities are implemented and functional.
+- Prepare the system for subsequent enhancements and testing.
