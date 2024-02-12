@@ -22,3 +22,10 @@
 - Prepare the system for subsequent enhancements and testing.
 
 ## Timeline: 2 Weeks (2/23/2024 - 3/7/2024)
+
+## Sprint 4: Testing & Deployment
+- Focus on different types of testing.
+- Deploy the website.
+- Monitor website performance and user engagement metrics closely.
+
+## Timeline: 2 Weeks (3/23/2024 - 4/6/2024)
