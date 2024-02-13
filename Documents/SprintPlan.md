@@ -23,7 +23,7 @@
 
 ## Timeline: 2 Weeks (2/23/2024 - 3/7/2024)
 
-## Sprint 3: Enhance & Optimize (2 weeks)
+## Sprint 3: Enhance & Optimize
 - Implement essential user features like favorites.
 - Add Search functionality.
 - Refine search UI/UX based on mockups and improve search accuracy.
