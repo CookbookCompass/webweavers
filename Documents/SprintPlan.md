@@ -23,9 +23,16 @@
 
 ## Timeline: 2 Weeks (2/23/2024 - 3/7/2024)
 
+## Sprint 3: Enhance & Optimize (2 weeks)
+- Implement essential user features like favorites.
+- Add Search functionality.
+- Refine search UI/UX based on mockups and improve search accuracy.
+- Conduct internal testing and usability testing.
+- Perform regression testing.
+
+## Timeline: 2 Weeks (3/23/2024 - 4/6/2024)
+
 ## Sprint 4: Testing & Deployment
 - Focus on different types of testing.
 - Deploy the website.
 - Monitor website performance and user engagement metrics closely.
-
-## Timeline: 2 Weeks (3/23/2024 - 4/6/2024)
