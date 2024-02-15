@@ -23,7 +23,7 @@ REQUIREMENTS
         * Categories section should provide filters for recipe types.
         * Login/Signup button should redirect to respective pages.
    * Search Results Page
-        * Users should be able to view a girs/list of recipes based on search
+        * Users should be able to view a gird/list of recipes based on search
         * Advanced filter section should allow users to refine search results.
         * Recipe cards should be displayed showing the relevant information.
    *  Registration & Login Page
