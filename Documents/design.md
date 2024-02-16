@@ -59,14 +59,14 @@ COOKBOOK COMPASS DESIGN DOCUMENT
    
    My SQL Database tables
 
-  1. Table Name : Users
+  * Table Name : Users
      Columns
        - id
        - first_name
        - last_name
        - email
        - password
-  2. Table Name : Recipes
+  * Table Name : Recipes
      Columns:
        - id
        - name
@@ -74,7 +74,7 @@ COOKBOOK COMPASS DESIGN DOCUMENT
        - instructions
        - video_url
        - image
-  3. Favorites
+  * Favorites
      Columns:
        - user_id
        - recipe_id
