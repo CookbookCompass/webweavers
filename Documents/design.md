@@ -1,11 +1,11 @@
 
 COOKBOOK COMPASS DESIGN DOCUMENT
 
-Purpose
+* Purpose
 
 The purpose of this document is to provide comprehensive technical specifications and architecture details for the development of the dynamic recipe website. It will serve as the blueprint while developing the website.
 
-Scope
+* Scope
 1. Website Pages
    * Home Page
    * Search Results Page
@@ -24,7 +24,7 @@ Scope
    * View listed favorite recipes
    * Edit user profile
 
-Architecture
+* Architecture
 1. Frontend Tech Stack
 
    
@@ -42,7 +42,7 @@ Architecture
    
 6. 3rd Party Integrations
 
-Interfaces
+* Interfaces
 1. External Interfaces
 
 2. Internal Interfaces
@@ -51,7 +51,7 @@ Interfaces
 
 4. Admin Interface
 
-Information Architecture
+* Information Architecture
 My SQL Database tables
 
 1. Table Name : Users
@@ -74,7 +74,7 @@ My SQL Database tables
    - user_id
    - recipe_id
 
-Use Cases
+* Use Cases
 1. Homepage
   * User lands on homepage
   * User views featured recipes
