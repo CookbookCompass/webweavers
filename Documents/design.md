@@ -72,7 +72,7 @@ COOKBOOK COMPASS DESIGN DOCUMENT
        - instructions
        - video_url
        - image
-  * Favorites
+  * Table Name: Favorites
        - user_id
        - recipe_id
 
