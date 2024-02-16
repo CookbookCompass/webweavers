@@ -2,6 +2,7 @@
 COOKBOOK COMPASS DESIGN DOCUMENT
 
 Purpose
+
 The purpose of this document is to provide comprehensive technical specifications and architecture details for the development of the dynamic recipe website. It will serve as the blueprint while developing the website.
 
 Scope
