@@ -51,6 +51,8 @@ The purpose of this document is to provide comprehensive technical specification
 * External Interfaces:
    * APIs for Recipe Data: Integration with third-party APIs to fetch recipe data, ingredients, and cooking instructions. This allows for a rich and diverse database of recipes.
 
+<img width="1816" alt="Workflow (3)" src="https://github.com/CookbookCompass/webweavers/assets/149122197/2f4cab3b-00ed-487f-bb44-c68bd7db10da">
+
 ## My SQL Database tables
 
 * Table Name: Users
@@ -116,6 +118,8 @@ The purpose of this document is to provide comprehensive technical specification
  - Main Flow: The user selects a category from a list of predefined options (e.g., Vegan, Breakfast, Quick Meals).
  - Postconditions: The website displays recipes belonging to the chosen category.
 
+![Home Page](https://github.com/CookbookCompass/webweavers/assets/149122197/ec6bc1ef-922b-4e78-9b17-e5c55a19b94e)
+
 ### Search
 1. User Enters Keyword in Search Bar
  - Primary Actor: User
@@ -138,6 +142,8 @@ The purpose of this document is to provide comprehensive technical specification
  - Main Flow: The user selects a recipe by clicking on its card.
  - Postconditions: The website navigates to the detailed recipe page.
 
+![Recipe Cards](https://github.com/CookbookCompass/webweavers/assets/149122197/280e8ff3-b0f2-48c3-9a45-eddd24ec9e6d)
+
 ### View Recipe Details
 1. User Views Detailed Recipe Page
  - Primary Actor: User
@@ -149,6 +155,8 @@ The purpose of this document is to provide comprehensive technical specification
  - Preconditions: User is logged in and viewing a recipe detail page.
  - Main Flow: The user clicks on a button to save the recipe to their favorites.
  - Postconditions: The recipe is added to the user's favorites list, accessible from their profile.
+
+![Recipe Info](https://github.com/CookbookCompass/webweavers/assets/149122197/0aea7922-51be-482c-81fc-5c282c7233a5)
 
 ### Registration & Login
 1. Guest User Clicks Register and Fills Sign Up Form
