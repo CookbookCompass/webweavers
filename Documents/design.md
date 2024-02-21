@@ -198,3 +198,5 @@ The purpose of this document is to provide comprehensive technical specification
  - Preconditions: User is logged in and wishes to log out.
  - Main Flow: The user selects the logout option from a dropdown menu or profile page.
  - Postconditions: The user is logged out and redirected to the homepage or login page.
+
+<img width="713" alt="image" src="https://github.com/CookbookCompass/webweavers/assets/149122197/3afc67c9-1727-4a95-9bd3-9faa60f1a551">
