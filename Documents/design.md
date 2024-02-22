@@ -99,24 +99,28 @@ The purpose of this document is to provide comprehensive technical specification
  - Preconditions: None
  - Main Flow: The user navigates to the website's URL and is presented with the homepage, featuring a welcoming interface.
  - Postconditions: The user views the homepage with various options, including featured recipes, search bar, and categories.
+ - Requirement: The welcoming interface aligns with the requirement for the homepage to display a header, featured recipes, search bar, and categories - Functional Requirement - 2 (Homepage).
 
 2. User Views Featured Recipes
  - Primary Actor: User
  - Preconditions: User is on the homepage.
  - Main Flow: The user scrolls through a section showcasing selected recipes chosen for their popularity, seasonality, or culinary interest.
  - Postconditions: The user can click on any featured recipe to view its details.
+ - Requirement: Showcasing selected recipes meets the requirement for the homepage to feature appealing recipes - Functional Requirement - 2.2 (Homepage).
 
 3. User Uses Search Bar to Search Recipes
  - Primary Actor: User
  - Preconditions: User is on the homepage.
  - Main Flow: The user types a keyword into the search bar and initiates a search.
  - Postconditions: The website displays a list of recipes matching the search criteria.
+ - Requirement: The search bar functionality directly corresponds to the requirement for allowing users to search for recipes from the homepage - Functional Requirement - 2.3 (Homepage).
 
 4. User Clicks on Recipe Category to Browse Recipes
  - Primary Actor: User
  - Preconditions: User is on the homepage.
  - Main Flow: The user selects a category from a list of predefined options (e.g., Vegan, Breakfast, Quick Meals).
  - Postconditions: The website displays recipes belonging to the chosen category.
+ - Requirement: This use case fulfills the requirement for a categories section that provides filters for recipe types - Functional Requirements 2.4 (Homepage).
 
 ![Home Page](https://github.com/CookbookCompass/webweavers/assets/149122197/ec6bc1ef-922b-4e78-9b17-e5c55a19b94e)
 
@@ -126,21 +130,28 @@ The purpose of this document is to provide comprehensive technical specification
  - Preconditions: User is on any page with access to the search bar.
  - Main Flow: The user inputs a search term related to their interest (e.g., "chicken curry").
  - Postconditions: The website processes the search and displays relevant recipes.
+ - Requirement: Entering a keyword and viewing search results aligns with the requirement for users to be able to view a grid/list of recipes based on a search - Functional Requirements 3.1 (Search results page).
+
 2. User Views List of Recipes with Matching Keywords
  - Primary Actor: User
  - Preconditions: User has entered a keyword in the search bar.
  - Main Flow: The website displays a list or grid of recipes that match the search criteria.
  - Postconditions: User can browse through the list of recipes.
+ - Requirement: Displaying recipes matching the search criteria fulfills the requirement for recipe cards showing relevant information - Functional Requirements 3.3 (Search Results Page).
+
 3. User Applies Filters to Refine Search Results
  - Primary Actor: User
  - Preconditions: User has searched for a recipe and views the results.
  - Main Flow: The user applies various filters (e.g., cuisine, ingredients) to narrow down the search results.
  - Postconditions: The website updates the list of recipes based on the selected filters.
+ - Requirement: Applying filters to refine search results corresponds to the requirement for an advanced filter section to refine search results - Functional Requirements 3.2 (Search results page).
+
 4. User Clicks on Recipe Card to View Recipe Details
  - Primary Actor: User
  - Preconditions: User is viewing a list of recipes.
  - Main Flow: The user selects a recipe by clicking on its card.
  - Postconditions: The website navigates to the detailed recipe page.
+ - Requirement: This use case is a direct match with the requirement to display detailed information on the recipe information page - Functional Requirements 5 (Recipe Information Page).
 
 ![Recipe Cards](https://github.com/CookbookCompass/webweavers/assets/149122197/280e8ff3-b0f2-48c3-9a45-eddd24ec9e6d)
 
@@ -150,11 +161,14 @@ The purpose of this document is to provide comprehensive technical specification
  - Preconditions: User has selected a recipe to view.
  - Main Flow: The user is presented with a page containing the recipe's ingredients, instructions, cooking time, and an image or video.
  - Postconditions: User can read and follow the recipe.
+ - Requirements: Viewing the detailed recipe page covers the requirements for displaying images, ingredients, instructions, and cooking videos - Functional Requirements 5.1, 5.2, 5.3 (Recipe Information Page).
+
 2. Logged in User Saves Recipe to Favorites
  - Primary Actor: Logged in User
  - Preconditions: User is logged in and viewing a recipe detail page.
  - Main Flow: The user clicks on a button to save the recipe to their favorites.
  - Postconditions: The recipe is added to the user's favorites list, accessible from their profile.
+ - Requirement: This use case fulfills the requirement for a favorite button for registered users to save recipes - Functional Requirements 5.5 (Recipe Information Page).
 
 ![Recipe Info](https://github.com/CookbookCompass/webweavers/assets/149122197/0aea7922-51be-482c-81fc-5c282c7233a5)
 
@@ -164,11 +178,15 @@ The purpose of this document is to provide comprehensive technical specification
  - Preconditions: User is not logged in and views the registration page.
  - Main Flow: The user fills in the registration form with necessary information and submits it to create a new account.
  - Postconditions: The user's account is created, and they are logged in to the website.
+ - Requirement: This use case meets the requirement for users to be able to register for a new account - Functional Requirement 1.1 (User Authentication).
+
 2. Registered User Enters Credentials and Clicks Login
  - Primary Actor: Registered User
  - Preconditions: User has an account and is on the login page.
  - Main Flow: The user enters their login credentials and initiates the login process.
  - Postconditions: The user is authenticated and gains access to their account and profile.
+ - Requirement: The login process fulfills the requirement for registered users to be able to login securely - Functional Requirements 1.2 (User Authentication).
+
 
 ![Login](Design_flow_charts/login_page_design.png)
 ![Registration](Design_flow_charts/registration_page_design.png)
@@ -179,25 +197,34 @@ The purpose of this document is to provide comprehensive technical specification
  - Preconditions: User is logged in.
  - Main Flow: The user clicks on the profile icon or menu option to access their profile page.
  - Postconditions: The user views their profile page with personal information, favorites, and settings.
+ - Requirement: Accessing the profile page fulfills the requirement for displaying user information and listing user's favorite recipes - Functional Requirement 6 (Profile Page).
+   
 2. User Views and Edits Their Information
  - Primary Actor: Logged in User
  - Preconditions: User is on their profile page.
  - Main Flow: The user selects an option to edit their profile information and submits the changes.
  - Postconditions: The user's profile information is updated.
+ - Requirement: Editing profile information aligns with the requirement for providing settings options for users to customize their profiles - Functional Requirement 6.3 (Profile Page).
+   
 3. User Views List of Their Favorited Recipes
  - Primary Actor: Logged in User
  - Preconditions: User is on their profile page.
  - Main Flow: The user navigates to the favorites section to view a list of recipes they have saved.
  - Postconditions: User can browse and select any favorite recipe to view its details.
+ - Requirement: This use case matches the requirement to list the user's favorite recipes on their profile page - Functional Requirement 6.2 (Profile Page).
+   
 4. User Removes Recipes from Their Favorites
  - Primary Actor: Logged in User
  - Preconditions: User is viewing their list of favorited recipes.
  - Main Flow: The user selects and removes recipes from their favorites.
  - Postconditions: The selected recipes are removed from the user's favorites list.
+ - Requirement: Removing recipes from favorites is an extension of managing the list of favorite recipes - Functional Requirement 6.2 (Profile Page).
+   
 5. User Logs Out from Dropdown Menu
  - Primary Actor: Logged in User
  - Preconditions: User is logged in and wishes to log out.
  - Main Flow: The user selects the logout option from a dropdown menu or profile page.
  - Postconditions: The user is logged out and redirected to the homepage or login page.
+ - Requirement: The logout feature corresponds to the requirement for including a logout option for users to securely log out - Functional Requirement 6.4 (Profile Page).
 
 <img width="713" alt="image" src="https://github.com/CookbookCompass/webweavers/assets/149122197/3afc67c9-1727-4a95-9bd3-9faa60f1a551">
