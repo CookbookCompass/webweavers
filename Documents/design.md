@@ -170,7 +170,7 @@ The purpose of this document is to provide comprehensive technical specification
  - Main Flow: The user enters their login credentials and initiates the login process.
  - Postconditions: The user is authenticated and gains access to their account and profile.
 
-![Login]([Documents/Design_flow_charts/login_page_design_WIP.png](https://github.com/CookbookCompass/webweavers/blob/main/Documents/Design_flow_charts/login_page_design_WIP.png?raw=true))
+![Login](Design_flow_charts/login_page_design_WIP.png)
 
 ### User Profile
 1. Logged in User Clicks on Profile Icon
