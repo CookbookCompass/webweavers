@@ -1,6 +1,6 @@
-## REQUIREMENTS
+# REQUIREMENTS
 
-1. NON-FUNCTIONAL REQUIREMENTS
+## NON-FUNCTIONAL REQUIREMENTS
    
    1. Image embedding
       1. Show thumbnails when searching for dishes
@@ -11,7 +11,7 @@
       2. An internal timer will be used to measure the length of user interactability
       3. If no user interaction is detected after one hour the website will logout the user
 
-2. FUNCTIONAL REQUIREMENTS
+## FUNCTIONAL REQUIREMENTS
 
    1. User Authentication
         1. Users should be able to register for a new account.
@@ -50,7 +50,7 @@
         1. Ensure the website is responsive, providing a seamless experience across all devices.
    
         
-3. TECHNICAL REQUIREMNETS
+## TECHNICAL REQUIREMNETS
 
    1. Frontend:
       1. Programming Languages: Use HTML, CSS, JavaScript (ES6+), and potentially a back-end language (Node.js) if required.
