@@ -170,7 +170,8 @@ The purpose of this document is to provide comprehensive technical specification
  - Main Flow: The user enters their login credentials and initiates the login process.
  - Postconditions: The user is authenticated and gains access to their account and profile.
 
-![Login](Design_flow_charts/login_page_design_WIP.png)
+![Login](Design_flow_charts/login_page_design.png)
+![Registration](Design_flow_charts/registration_page_design.png)
 
 ### User Profile
 1. Logged in User Clicks on Profile Icon
