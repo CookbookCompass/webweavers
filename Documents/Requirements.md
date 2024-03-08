@@ -17,16 +17,24 @@
         1. Users should be able to register for a new account.
         2. Registered users should be able to login securely.
         3. Passwords should be stored securely and encrypted.
+        4. Error message should appear on entering an email in incorrect format.
+        5. Error message should appear on entering incorrect password.
+        6. User should not be able to submit without entering both login and password.
    2. Home Page
         1. Home Page should display a header with title.
         2. Featured recipes should show appealing recipes.
         3. Search bar should allow users to search for recipes.
         4. Categories section should provide filters for recipe types.
-        5. Login/Signup button should redirect to respective pages.
+        5. Clicking the Login button should redirect to the login page.
+        6. Clicking the Signup button should redirect to the registration page.
    3. Search Results Page
         1. Users should be able to view a gird/list of recipes based on search
         2. Advanced filter section should allow users to refine search results.
         3. Recipe cards should be displayed showing the relevant information.
+        4. If user enters an incorrect search query, the 'No Results Found' page should be displayed.
+        5. If the entered recipe is not available, the 'Recipe unavailable' page should be displayed.
+        6. The search query should run on tapping 'ENTER' key on the keyboard.
+        7. The search query should run on tapping the 'Magnifying glass' icon.
    4.  Registration & Login Page
         1. Should include a form with fields for necessary user information.
         2. Proper authentication should be done.
