@@ -19,7 +19,7 @@
         3. Passwords should be stored securely and encrypted.
         4. Error message should appear on entering an email in incorrect format.
         5. Error message should appear on entering incorrect password.
-        6. User should not be able to submit without entering both login and password.
+        6. User should not be able to login without entering both email and password.
    2. Home Page
         1. Home Page should display a header with title.
         2. Featured recipes should show appealing recipes.
@@ -35,10 +35,14 @@
         5. If the entered recipe is not available, the 'Recipe unavailable' page should be displayed.
         6. The search query should run on tapping 'ENTER' key on the keyboard.
         7. The search query should run on tapping the 'Magnifying glass' icon.
-   4.  Registration & Login Page
+   4.  Registration:
         1. Should include a form with fields for necessary user information.
         2. Proper authentication should be done.
         3. Error handling should inform users about any login or registration issues.
+        4. Error message should appear on entering an email in incorrect format.
+        5. Error message should appear on entering a password that is too short.
+        6. User should not be able to submit the registration form without entering valid details for all required fields.
+        7. 
    5. Recipe Information Page
         1. Should display a dish image on the recipe information page.
         2. Should display ingredients list for each recipe.
