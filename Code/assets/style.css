@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+html{
+  height: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--color3);
+    height: 100%;
+    min-height: 100%;
+}
+:root{
+  --color: #790c0c;
+  --color2: #ffffff;
+  --color3: #aaff00;
+  --error: #FFFF00;
+  --success: #ffffff;
+  --color4: #333;
+  --bg: #6FFFE9;
+  
+}
+*{  
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    color: var(--bg);
+}
+::-webkit-scrollbar{
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px var(--color3); 
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color); 
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b30000; 
+}
+.header{
+    width: 100%;
+    height: 800px;
+    color: var(--color4)
+   /*background-image: url('../img/bg.png');
+    background-size: cover;
+    background-position: center;*/
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:var(--color);
+    color: var(--color3);
+}
