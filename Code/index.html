@@ -1,1 +1,88 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./img/RecipeLogo.jpeg" type="image/x-icon">
+    <link rel="stylesheet" href="./assets/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <title>Cookbook Compass</title>
+</head>
+<body>
+
+     <!--- Navigation Bar -->
+     <div class="header">
+        <nav class="nav-bar">
+            <img src="./img/Logo.png" class="brand-name">
+            <a href="#" class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </a>
+            <div class="menu-bar">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="recipeinfo.html">Recipes</a></li>
+                    <li><a href="Login.html">Login</a></li>
+                    <li><a href="register.html">Register</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <!-- Featured Recipes -->
+    <div class="results">
+        <h1>Featured Recipes </h1>
+    </div>
+
+    <div class="card-grid" >
+        <div class="card card-shadow">
+            <div class="card-header card-image">
+                <img src="./img/Porkchop.webp">
+            </div>
+            <div class="card-body" >
+                <h2>Sizzling Porkchop</h2>
+            </div>
+            <div class="card-footer">
+                <button class="btn" onclick="get3rdRecipe()">Get Recipe</button>
+            </div>
+        </div>
+        <div class="card card-shadow">
+            <div class="card-header card-image">
+                <img src="./img/Omelette.webp">
+            </div>
+            <div class="card-body" >
+                <h2>Omelette</h2>
+            </div>
+            <div class="card-footer">
+                <button class="btn" onclick="get4thRecipe()">Get Recipe</button>
+            </div>
+        </div>
+        <div class="card card-shadow">
+            <div class="card-header card-image">
+                <img src="./img/Sinigang.webp">
+            </div>
+            <div class="card-body" >
+            <h2> Sinigang </h2>
+            </div>
+            <div class="card-footer">
+                <button class="btn" onclick="get5thRecipe()">Get Recipe</button>
+            </div> 
+        </div>
+    </div>
+
+    <!-- Search Bar -->
+    <div class="title">Find a Recipe</div>
+        <div class="search-wrapper">
+            <div class="fa fa-search"></div>
+            <input type="text" name=""  id="search" placeholder="What do you want to eat?" onkeyup="search()">
+            <div class="fa fa-times" onclick="clearInput()" ></div>
+        </div>
+    </div>
+
+<!--Script for Javascript-->
+<script src="./assets/index.js"></script>
+
+</body>
+</html>
