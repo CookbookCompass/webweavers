@@ -170,6 +170,10 @@ The purpose of this document is to provide comprehensive technical specification
  - Postconditions: The recipe is added to the user's favorites list, accessible from their profile.
  - Requirement: This use case fulfills the requirement for a favorite button for registered users to save recipes - Functional Requirements 5.5 (Recipe Information Page).
 
+Flow Chart:
+<img width="2704" alt="Recipe Info_FC" src="https://github.com/CookbookCompass/webweavers/assets/149122197/1e9c7ea6-da7c-40aa-a61e-9124082fa765">
+
+Mockup:
 ![Recipe Info](https://github.com/CookbookCompass/webweavers/assets/149122197/0aea7922-51be-482c-81fc-5c282c7233a5)
 
 ### Registration & Login
