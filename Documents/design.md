@@ -157,6 +157,8 @@ Mockup:
 
 Flow chart:
 
+<img width="1614" alt="Workflow (4)" src="https://github.com/CookbookCompass/webweavers/assets/46927935/2e834356-360f-4c85-a1b6-a0a8bf1c94b6">
+
 
 Mockup:
 ![Recipe Cards](https://github.com/CookbookCompass/webweavers/assets/149122197/280e8ff3-b0f2-48c3-9a45-eddd24ec9e6d)
@@ -241,6 +243,8 @@ Mockups:
  - Requirement: The logout feature corresponds to the requirement for including a logout option for users to securely log out - Functional Requirement 6.4 (Profile Page).
 
 Flow chart:
+
+<img width="1212" alt="Workflow (7)" src="https://github.com/CookbookCompass/webweavers/assets/46927935/0215bd11-5ee6-45f3-87c5-2a09e9a9b936">
 
 
 Mockup:
