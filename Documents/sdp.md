@@ -21,37 +21,33 @@ The development methodology for recipe website project will follow an agile appr
   * Plan the initial sprints and tasks.
   * Update the requirements if needed.
   * Defining the roles.
-* Milestone 3: User Authentication and Registration (Feb 9 - Feb 16)
+* Milestone 3: User Authentication and Registration (Feb 9 - March 7)
   * Design registration and login pages.
   * Write the code to implement the design.
   * Commit the changes to github repo.
   * Test the code and functionality.
-* Milestone 4: Home Page Development (Feb 17 to Feb 24)
+* Milestone 4: Home Page Development (Feb 9 to March 7)
   * Design and implement the home page layout.
   * Commit the changes to project repo.
   * Test the code and functionality.
-* Milestone 5: Search Results and Recipe Cards (Feb 25 to March 2)
+* Milestone 5: Search Results and Recipe Cards (Feb 9 to March 7)
   * Design and implement the search reults page.
   * Develop the recipe cards with relevant information.
   * Commit the changes to project repo.
   * Test the code and functionality.
-* Milestone 6: Recipe Information Page (March 3 to March 10)
+* Milestone 6: Recipe Information Page (Feb 9 to March 7)
   * Design and implement the recipe information page.
   * Commit the changes to github repo.
   * Test the code and functionality.
-* Milestone 7: Profile Page and Settings (March 11 to March 18)
-  * Design and develop the user profile page.
-  * Commit the changes to github repo.
-  * Test the code and functionality.
-* Milestone 8: Agile Methodology Integration and Testing (March 19 to March 26)
+* Milestone 7: Agile Methodology Integration and Testing (March 8 to March 28)
   * Integrate the code for all pages and make sure everything works properly.
   * Incorporate agile methodologies for iterative development.
   * Implement features in iterations for continuous feedback.
   * Perform testing and bug fixing.
-* Milestone 9: Deployment and Documentation (March 27 to April 4)
+* Milestone 8: Deployment and Documentation (March 29 to April 4)
   * Consolidate and deploy the website on a local host.
   * Document the entire development process.
-* Milestone 10: Final Presentation (April 5 to April 11)
+* Milestone 9: Final Presentation (April 5 to April 11)
   * Prepare final presentation.
   * Recheck all documentation before the final delverible date.
   * Deliver the final product.
