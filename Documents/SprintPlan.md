@@ -30,9 +30,19 @@
 - Conduct internal testing and usability testing.
 - Perform regression testing.
 
-## Timeline: 2 Weeks (3/23/2024 - 4/6/2024)
+## Timeline: 3 Weeks (3/8/2024 - 3/28/2024)
 
-## Sprint 4: Testing & Deployment
+## Sprint 4: UI/UX changes
+- Integrate all webpages.
+- MVP release.
+- Add or Update design and requirement documents if needed.
+- Conduct internal testing and usability testing.
+- Perform regression testing.
+
+## Timeline: 2 Weeks (3/29/2024 - 4/11/2024)
+
+## Sprint 5: Testing & Deployment
 - Focus on different types of testing.
 - Deploy the website.
 - Monitor website performance and user engagement metrics closely.
+- Documentation and Presentation
