@@ -51,8 +51,6 @@ The purpose of this document is to provide comprehensive technical specification
 * External Interfaces:
    * APIs for Recipe Data: Integration with third-party APIs to fetch recipe data, ingredients, and cooking instructions. This allows for a rich and diverse database of recipes.
 
-<img width="1816" alt="Workflow (3)" src="https://github.com/CookbookCompass/webweavers/assets/149122197/2f4cab3b-00ed-487f-bb44-c68bd7db10da">
-
 ## My SQL Database tables
 
 * Table Name: Users
@@ -122,6 +120,10 @@ The purpose of this document is to provide comprehensive technical specification
  - Postconditions: The website displays recipes belonging to the chosen category.
  - Requirement: This use case fulfills the requirement for a categories section that provides filters for recipe types - Functional Requirements 2.4 (Homepage).
 
+Flow chart:
+<img width="1816" alt="Workflow (3)" src="https://github.com/CookbookCompass/webweavers/assets/149122197/2f4cab3b-00ed-487f-bb44-c68bd7db10da">
+
+Mockup:
 ![Home Page](https://github.com/CookbookCompass/webweavers/assets/149122197/ec6bc1ef-922b-4e78-9b17-e5c55a19b94e)
 
 ### Search
@@ -153,6 +155,10 @@ The purpose of this document is to provide comprehensive technical specification
  - Postconditions: The website navigates to the detailed recipe page.
  - Requirement: This use case is a direct match with the requirement to display detailed information on the recipe information page - Functional Requirements 5 (Recipe Information Page).
 
+Flow chart:
+
+
+Mockup:
 ![Recipe Cards](https://github.com/CookbookCompass/webweavers/assets/149122197/280e8ff3-b0f2-48c3-9a45-eddd24ec9e6d)
 
 ### View Recipe Details
@@ -191,7 +197,10 @@ Mockup:
  - Postconditions: The user is authenticated and gains access to their account and profile.
  - Requirement: The login process fulfills the requirement for registered users to be able to login securely - Functional Requirements 1.2 (User Authentication).
 
+Flow charts:
 
+
+Mockups:
 ![Login](Design_flow_charts/login_page_design.png)
 ![Registration](Design_flow_charts/registration_page_design.png)
 
@@ -231,4 +240,8 @@ Mockup:
  - Postconditions: The user is logged out and redirected to the homepage or login page.
  - Requirement: The logout feature corresponds to the requirement for including a logout option for users to securely log out - Functional Requirement 6.4 (Profile Page).
 
+Flow chart:
+
+
+Mockup:
 <img width="713" alt="image" src="https://github.com/CookbookCompass/webweavers/assets/149122197/3afc67c9-1727-4a95-9bd3-9faa60f1a551">
