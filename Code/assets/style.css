@@ -104,6 +104,14 @@ font-weight: 600;
 color: var(--color4);
 }
 
+.title a{
+  text-align: center;
+  font-size: 5rem;
+  padding-top: 1.5rem;
+  font-weight: 600;
+  color: var(--color4);
+  }
+
 .search-wrapper{
 display: flex;
 align-items: center;
