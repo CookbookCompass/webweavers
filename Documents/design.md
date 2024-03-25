@@ -121,7 +121,7 @@ The purpose of this document is to provide comprehensive technical specification
  - Requirement: This use case fulfills the requirement for a categories section that provides filters for recipe types - Functional Requirements 2.4 (Homepage).
 
 Flow chart:
-<img width="1816" alt="Workflow (3)" src="https://github.com/CookbookCompass/webweavers/assets/149122197/2f4cab3b-00ed-487f-bb44-c68bd7db10da">
+<img width="2256" alt="Workflow (8)" src="https://github.com/CookbookCompass/webweavers/assets/156600636/b8bdd35f-5e47-4be7-a28a-6c0fc0ae5d40">
 
 Mockup:
 ![Home Page](https://github.com/CookbookCompass/webweavers/assets/149122197/ec6bc1ef-922b-4e78-9b17-e5c55a19b94e)
@@ -199,8 +199,7 @@ Mockup:
  - Postconditions: The user is authenticated and gains access to their account and profile.
  - Requirement: The login process fulfills the requirement for registered users to be able to login securely - Functional Requirements 1.2 (User Authentication).
 
-Flow charts:
-
+Flow Charts:
 
 Mockups:
 ![Login](Design_flow_charts/login_page_design.png)
