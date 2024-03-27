@@ -1,4 +1,3 @@
-![screencapture-127-0-0-1-5500-index1-html-2024-03-27-16_32_39](https://github.com/CookbookCompass/webweavers/assets/46927935/fdc641d2-7675-4c78-80c5-645ad598c33b)#MVP
 
 
       
