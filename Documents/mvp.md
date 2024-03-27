@@ -19,7 +19,8 @@
 
         3. Search button will take the user to login/registration page. Once the user is logged in, they will be navigated to search page.
    
-   ![WhatsApp GIF 2024-03-27 at 16 41 24](https://github.com/CookbookCompass/webweavers/assets/46927935/7392337b-cd92-4775-9d57-900c370279c4)
+  ![WhatsApp GIF 2024-03-27 at 16 51 43](https://github.com/CookbookCompass/webweavers/assets/46927935/061b253a-96b5-4c4f-8b60-cdcac1610dd0)
+
 
    3. Search Results Page
         1. Search bar should allow users to search recipes.
