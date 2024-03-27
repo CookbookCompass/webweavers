@@ -5,7 +5,6 @@
   - Create user stories for Homepage.
   - Create user stories for login/registration page.
   - Create user stories for Recipe detail page.
-  - Create user stories for Profile page.
 - Conduct rapid prototyping and gather user feedback through low-fidelity mockups:
   - Create flow chart/user flows.
   - Use design tools like Figma to create mockups.
