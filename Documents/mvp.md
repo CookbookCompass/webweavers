@@ -30,9 +30,12 @@
         2. Users should be able to view a gird/list of recipes based on search
         3. Recipe cards should be displayed showing the relevant information.
         4. If user enters an incorrect search query, the 'No Results Found' message should be displayed.
+
+      ![screencapture-127-0-0-1-5500-search-html-2024-03-27-19_57_08](https://github.com/CookbookCompass/webweavers/assets/149122197/abd8878d-182f-4fc0-ba5c-a724c79a8a7f)
+
         5. The search query should run on tapping the 'Magnifying glass' icon.
 
-  ![20240327_171143-ANIMATION](https://github.com/CookbookCompass/webweavers/assets/46927935/a3976194-71f9-4a55-bf54-8bfa951a6449)
+      ![20240327_171143-ANIMATION](https://github.com/CookbookCompass/webweavers/assets/46927935/a3976194-71f9-4a55-bf54-8bfa951a6449)
 
 
    4.  Registration:
