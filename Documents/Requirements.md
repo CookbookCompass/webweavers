@@ -28,7 +28,8 @@
         2. Users should be able to view a gird/list of recipes based on search
         3. Recipe cards should be displayed showing the relevant information.
         4. If user enters an incorrect search query, the 'No Results Found' message should be displayed.
-        5. The search query should run on tapping the 'Magnifying glass' icon.
+        5. The search query should run on clicking the 'Magnifying glass' icon.
+        6. The search query should run by hitting the enter button on the keyboard.
    5.  Registration:
         1. Should include a form with fields for necessary user information.
         2. Proper authentication should be done.
