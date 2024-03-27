@@ -51,25 +51,6 @@
    ![20240327_172219-ANIMATION](https://github.com/CookbookCompass/webweavers/assets/46927935/65f3ed07-654b-46ed-8c87-249cfd6b09f7)
 
 
-   6. Agile Methodology Integration
-        1. Incorporate Agile methodologies for iterative development.
-        2. Implement features in iterations, allowing for continuous feedback and improvement.
-        3. Use a version control system for collaboration, enabling branching and code management.
-   7. Responsiveness
-        1. Ensure the website is responsive, providing a seamless experience across all devices.
-   
+  
         
-## TECHNICAL REQUIREMNETS
-
-   1. Frontend:
-      1. Programming Languages: Use HTML, CSS, JavaScript (ES6+).
-      2. Version Control: Utilize Git for version control, with a code repository hosted on GitHub.
-   2. Database & data:
-      1. Database System: An appropriate database system - MySQL for storing user information, and other relevant data.
-      2. Data Sources: Identify and integrate data sources, which may include APIs for recipe data and user authentication.
-      3. Data Models: Define database schema and data models to organize and store information efficiently.
-   3. Backend:
-      1. User authentication by checking the data from database, integrating with Java script.
-   4. Deployment and Infrastructure:
-      1. Web Hosting: Local System Hosting
 
