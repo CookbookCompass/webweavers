@@ -21,7 +21,8 @@
    2. Home Page
         1. Home Page should display a header with title.
         2. Featured recipes should show appealing recipes.
-        3. Search button will prompt the user to login or register. Once the user is logged in, they will be navigated to search page.
+        3. Search button will prompt the user to login or register.
+        4. Once the user is logged in, they will be navigated to search page.
    3. Search Results Page
         1. Search bar should allow users to search recipes.
         2. Users should be able to view a gird/list of recipes based on search
