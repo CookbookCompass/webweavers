@@ -46,6 +46,9 @@
         2. Should display ingredients list for each recipe.
         3. Should provide a list of step-by-step instructions for recipe.
         4. Should have video of recipe if available.
+   ![20240327_172219-ANIMATION](https://github.com/CookbookCompass/webweavers/assets/46927935/65f3ed07-654b-46ed-8c87-249cfd6b09f7)
+
+
    6. Agile Methodology Integration
         1. Incorporate Agile methodologies for iterative development.
         2. Implement features in iterations, allowing for continuous feedback and improvement.
