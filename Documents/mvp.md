@@ -20,7 +20,8 @@
         3. Search button will take the user to login/registration page.
         4. Once the user is logged in, they will be navigated to search page.
 
-   
+   ![20240327_171143-ANIMATION](https://github.com/CookbookCompass/webweavers/assets/46927935/992174f2-83c4-484d-9023-d25b7f879a85)
+
  
 
    3. Search Results Page
