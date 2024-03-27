@@ -1,7 +1,7 @@
 
 
       
-## REQUIREMENTS
+## MVP
 
    1. User Authentication
         1. Users should be able to register for a new account.
