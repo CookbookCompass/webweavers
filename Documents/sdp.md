@@ -1,5 +1,5 @@
 # Software Development Plan
-
+ 
 ## Administrivia
 * Meeting details
   * cadence: Weekly meetings on every tuesday and thursday after the class
