@@ -1,15 +1,8 @@
-# REQUIREMENTS
+![screencapture-127-0-0-1-5500-index1-html-2024-03-27-16_32_39](https://github.com/CookbookCompass/webweavers/assets/46927935/fdc641d2-7675-4c78-80c5-645ad598c33b)#MVP
 
-## NON-FUNCTIONAL REQUIREMENTS
-   
-   1. Image embedding
-      1. Show thumbnails when searching for dishes
-      2. Ensure that the used thumbnails correspond to a full-sized image
-      3. Image captioning is also required
-   2. Auto-logout
-      1. Used to ensure security of the account on all devices
+
       
-## FUNCTIONAL REQUIREMENTS
+## REQUIREMENTS
 
    1. User Authentication
         1. Users should be able to register for a new account.
@@ -18,17 +11,26 @@
         4. Error message should appear on entering an email in incorrect format.
         5. Error message should appear on entering incorrect password.
         6. User should not be able to login without entering both email and password.
+   
    2. Home Page
         1. Home Page should display a header with title.
         2. Featured recipes should show appealing recipes.
-        3. Search button will prompt the user to login or register. Once the user is logged in, they will be navigated to search page.
+      
+      ![screencapture-127-0-0-1-5500-index1-html-2024-03-27-16_32_39](https://github.com/CookbookCompass/webweavers/assets/46927935/80a0c908-a719-4744-b4c1-b6e2b4144daa)
+
+        3. Search button will take the user to login/registration page. Once the user is logged in, they will be navigated to search page.
+   
+   ![WhatsApp GIF 2024-03-27 at 16 41 24](https://github.com/CookbookCompass/webweavers/assets/46927935/7392337b-cd92-4775-9d57-900c370279c4)
+
    3. Search Results Page
         1. Search bar should allow users to search recipes.
         2. Users should be able to view a gird/list of recipes based on search
         3. Recipe cards should be displayed showing the relevant information.
         4. If user enters an incorrect search query, the 'No Results Found' message should be displayed.
         5. The search query should run on tapping the 'Magnifying glass' icon.
-   5.  Registration:
+
+   
+   4.  Registration:
         1. Should include a form with fields for necessary user information.
         2. Proper authentication should be done.
         3. Error handling should inform users about any login or registration issues.
@@ -36,16 +38,16 @@
         5. Error message should appear on entering a password that is too short.
         6. User should not be able to submit the registration form without entering valid details for all required fields.
        
-   6. Recipe Information Page
+   5. Recipe Information Page
         1. Should display a dish image on the recipe information page.
         2. Should display ingredients list for each recipe.
         3. Should provide a list of step-by-step instructions for recipe.
         4. Should have video of recipe if available.
-   7. Agile Methodology Integration
+   6. Agile Methodology Integration
         1. Incorporate Agile methodologies for iterative development.
         2. Implement features in iterations, allowing for continuous feedback and improvement.
         3. Use a version control system for collaboration, enabling branching and code management.
-   8. Responsiveness
+   7. Responsiveness
         1. Ensure the website is responsive, providing a seamless experience across all devices.
    
         
