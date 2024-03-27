@@ -30,7 +30,8 @@
         4. If user enters an incorrect search query, the 'No Results Found' message should be displayed.
         5. The search query should run on tapping the 'Magnifying glass' icon.
 
-   ![WhatsApp GIF 2024-03-27 at 17 11 58](https://github.com/CookbookCompass/webweavers/assets/46927935/721026b3-e53c-48d0-b052-fb2d13ce5306)
+  ![20240327_171143-ANIMATION](https://github.com/CookbookCompass/webweavers/assets/46927935/a3976194-71f9-4a55-bf54-8bfa951a6449)
+
 
    4.  Registration:
         1. Should include a form with fields for necessary user information.
