@@ -17,9 +17,11 @@
       
       ![screencapture-127-0-0-1-5500-index1-html-2024-03-27-16_32_39](https://github.com/CookbookCompass/webweavers/assets/46927935/80a0c908-a719-4744-b4c1-b6e2b4144daa)
 
-        3. Search button will take the user to login/registration page. Once the user is logged in, they will be navigated to search page.
+        3. Search button will take the user to login/registration page.
+        4. Once the user is logged in, they will be navigated to search page.
+
    
-  ![Cookbook Compass](https://github.com/CookbookCompass/webweavers/assets/149122197/d2af562e-cbbd-4acd-be97-45cbc246b321)
+ 
 
    3. Search Results Page
         1. Search bar should allow users to search recipes.
@@ -28,7 +30,8 @@
         4. If user enters an incorrect search query, the 'No Results Found' message should be displayed.
         5. The search query should run on tapping the 'Magnifying glass' icon.
 
-   
+   ![WhatsApp GIF 2024-03-27 at 17 11 58](https://github.com/CookbookCompass/webweavers/assets/46927935/721026b3-e53c-48d0-b052-fb2d13ce5306)
+
    4.  Registration:
         1. Should include a form with fields for necessary user information.
         2. Proper authentication should be done.
