@@ -8,9 +8,7 @@
       3. Image captioning is also required
    2. Auto-logout
       1. Used to ensure security of the account on all devices
-      2. An internal timer will be used to measure the length of user interactability
-      3. If no user interaction is detected after one hour the website will logout the user
-
+      
 ## FUNCTIONAL REQUIREMENTS
 
    1. User Authentication
@@ -23,9 +21,7 @@
    2. Home Page
         1. Home Page should display a header with title.
         2. Featured recipes should show appealing recipes.
-        3. Search button should allow users to navigate to search page.
-        4. Clicking the Login button should redirect to the login page.
-        5. Clicking the Signup button should redirect to the registration page.
+        3. Search button will prompt the user to login or register. Once the user is logged in, they will be navigated to search page.
    3. Search Results Page
         1. Search bar should allow users to search recipes.
         2. Users should be able to view a gird/list of recipes based on search
@@ -39,7 +35,7 @@
         4. Error message should appear on entering an email in incorrect format.
         5. Error message should appear on entering a password that is too short.
         6. User should not be able to submit the registration form without entering valid details for all required fields.
-        7. 
+       
    6. Recipe Information Page
         1. Should display a dish image on the recipe information page.
         2. Should display ingredients list for each recipe.
