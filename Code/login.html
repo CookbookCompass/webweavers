@@ -62,44 +62,23 @@
 </head>
 <body>
     <div class="container">
-        <div class="menu-bar">
-            <ul>
-                <a href="index.html">Home</a>
-            </ul>
-        </div>
         <h2>Login</h2>
-        <form id="loginForm">
+        <form id="loginForm" action="login.php" method="post">
             <div class="form-group">
-                <label for="username">Username</label>
-                <input type="text" id="username" name="username" required>
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required>
             </div>
             <div class="form-group">
                 <label for="password">Password</label>
                 <input type="password" id="password" name="password" required>
             </div>
             <div class="form-group">
-                <button type="button" onclick="login()">Login</button>
+                <button type="submit">Login</button>
             </div>
         </form>
         <div class="signup-link">
             <p>No account? <a href="registration.html">Sign up here.</a></p>
         </div>
     </div>
-    <script>
-        function login() {
-            // Get the username and password values
-            var username = document.getElementById("username").value;
-            var password = document.getElementById("password").value;
-            
-            // Validate the username and password
-            if (username === "username" && password === "password") {
-                //alert("Login successful!");
-                // Redirect to a new page or perform other actions after successful login
-                window.location.replace("search.html");
-            } else {
-                alert("Invalid username or password. Please try again.");
-            }
-        }
-    </script>
 </body>
 </html>
