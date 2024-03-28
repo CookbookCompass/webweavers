@@ -34,8 +34,8 @@
             margin-bottom: 5px;
         }
         .form-group input {
-            width: 100%;
-            padding: 10px;
+            width: 90%;
+            padding: 8px;
             border: 1px solid #ccc;
             border-radius: 5px;
         }
@@ -62,6 +62,11 @@
 </head>
 <body>
     <div class="container">
+        <div class="menu-bar">
+            <ul>
+                <a href="index.html">Home</a>
+            </ul>
+        </div>
         <h2>Login</h2>
         <form id="loginForm">
             <div class="form-group">
@@ -77,7 +82,7 @@
             </div>
         </form>
         <div class="signup-link">
-            <p>No account? <a href="#">Sign up here.</a></p>
+            <p>No account? <a href="registration.html">Sign up here.</a></p>
         </div>
     </div>
     <script>
@@ -87,9 +92,10 @@
             var password = document.getElementById("password").value;
             
             // Validate the username and password
-            if (username === "your_username" && password === "your_password") {
-                alert("Login successful!");
+            if (username === "username" && password === "password") {
+                //alert("Login successful!");
                 // Redirect to a new page or perform other actions after successful login
+                window.location.replace("search.html");
             } else {
                 alert("Invalid username or password. Please try again.");
             }

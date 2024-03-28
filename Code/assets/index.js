@@ -92,7 +92,7 @@ const mealCloseBtn = document.getElementById("recipe-close-btn");
 
 //The functions will run for the button when click 
 function getRecipeDetails(){
-  document.querySelector(".meal-detail").style.display ="block"
+  document.querySelector(".meal-detail").style.display = "block"
 }
 function get2ndRecipe(){
   document.querySelector(".second-meal-detail").style.display = "block"

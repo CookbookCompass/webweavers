@@ -12,13 +12,13 @@ body{
     min-height: 100%;
 }
 :root{
-  --color: #790c0c;
+  --color: #000000;
   --color2: #ffffff;
-  --color3: #aaff00;
+  --color3: #ffffff;
   --error: #FFFF00;
   --success: #ffffff;
   --color4: #333;
-  --bg: #6FFFE9;
+  --bg: #ffffff;
   
 }
 *{  
@@ -42,8 +42,11 @@ body{
 }
 .header{
     width: 100%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
     height: 800px;
-    color: var(--color4)
+    color: var(--color4);
    /*background-image: url('../img/bg.png');
     background-size: cover;
     background-position: center;*/
@@ -167,10 +170,10 @@ text-align: center;
 .card-grid, .food-list{
   display: flex;
   flex-wrap: wrap;
-  gap: auto;
-  padding-top: auto;
+  gap: 20px;
+  padding: 20px;
   justify-content: center;
-  overflow: auto;
+  overflow-x: auto;
   min-height: auto;
   padding-bottom: auto;
   text-align: center;
@@ -251,7 +254,7 @@ text-align: center;
   background: var(--bg);
   color: var(--color4);
   border: 2px solid var(--color);
-  font-size: 5rem;
+  font-size: 2rem;
   padding: .5em .75em;
   border-radius: .50em;
   cursor: pointer;
@@ -280,17 +283,7 @@ text-align: center;
   color: var(--color4);
   clear: both;
 }
-.social-btn{
-  position: sticky;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 1rem;
-  font-size: 2rem;
-}
-.social-btn a{
-  color: rgb(255, 253, 253);
-}
+
 .quick-bar{
   display: flex;
   justify-content: center;
@@ -1145,7 +1138,7 @@ color: var(--success);
   }
   .title{
       font-size: 3rem;
-      margin-top: 0.5rem;
+      padding-top: 0.5rem;
   }
   .search-wrapper{
      width: 300px;
