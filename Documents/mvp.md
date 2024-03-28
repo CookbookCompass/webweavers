@@ -10,8 +10,8 @@
         4. Error message should appear on entering an email in incorrect format.
         5. Error message should appear on entering incorrect password.
         6. User should not be able to login without entering both email and password.
-      ![registrationHtmlCode](https://github.com/CookbookCompass/webweavers/blob/main/Code/img/registrationHtmlCode.png?raw=true)
-      ![loginHtmlCode](https://github.com/CookbookCompass/webweavers/blob/main/Code/img/loginHtmlCode.png?raw=true)
+      ![Registration](https://github.com/CookbookCompass/webweavers/blob/main/Code/img/Registration.png?raw=true)
+      ![Login](https://github.com/CookbookCompass/webweavers/blob/main/Code/img/Login.png?raw=true)
 
    2. Home Page
         1. Home Page should display a header with title.
