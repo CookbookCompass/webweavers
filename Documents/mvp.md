@@ -10,8 +10,7 @@
         4. Error message should appear on entering an email in incorrect format.
         5. Error message should appear on entering incorrect password.
         6. User should not be able to login without entering both email and password.
-      ![Registration](https://github.com/CookbookCompass/webweavers/blob/main/Code/img/Registration.png?raw=true)
-      ![Login](https://github.com/CookbookCompass/webweavers/blob/main/Code/img/Login.png?raw=true)
+      ![UserAuthentication](https://github.com/CookbookCompass/webweavers/blob/main/Code/img/userAuthAni.gif?raw=true)
 
    2. Home Page
         1. Home Page should display a header with title.
@@ -47,8 +46,7 @@
         4. Error message should appear on entering an email in incorrect format.
         5. Error message should appear on entering a password that is too short.
         6. User should not be able to submit the registration form without entering valid details for all required fields.
-      ![registrationPhpCode](https://github.com/CookbookCompass/webweavers/blob/main/Code/img/registrationPhpCode.png?raw=true)
-      ![loginPhpCode](https://github.com/CookbookCompass/webweavers/blob/main/Code/img/loginPhpCode.png?raw=true)
+      ![Registration](https://github.com/CookbookCompass/webweavers/blob/main/Code/img/regiAuthAni.gif?raw=true)
        
    5. Recipe Information Page
         1. Should display a dish image on the recipe information page.
