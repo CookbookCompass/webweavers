@@ -11,6 +11,8 @@
         5. Error message should appear on entering incorrect password.
         6. User should not be able to login without entering both email and password.
    
+      ![registrationHtmlCode](https://github.com/CookbookCompass/webweavers/blob/main/Code/img/loginHtmlCode.png?raw=true)
+
    2. Home Page
         1. Home Page should display a header with title.
         2. Featured recipes should show appealing recipes.
