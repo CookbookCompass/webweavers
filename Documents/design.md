@@ -162,12 +162,54 @@ Mockup:
  - Postconditions: The user's account is created, and they are logged in to the website.
  - Requirement: This use case meets the requirement for users to be able to register for a new account - Functional Requirement 4(4.1,4.2,4.3)(User Authentication).
 
-2. Registered User Enters Credentials and Clicks Login
+2. Registered User enters Credentials and Clicks Login
  - Primary Actor: Registered User
  - Preconditions: User has an account and is on the login page.
  - Main Flow: The user enters their login credentials and initiates the login process.
  - Postconditions: The user is authenticated and gains access to their account and profile.
  - Requirement: The login process fulfills the requirement for registered users to be able to login securely - Functional Requirements 1(User Authentication).
+
+3. Registered User enters invalid email id
+ - Primary Actor: Registered User
+ - Preconditions: User has an account and is on the login page.
+ - Main Flow: The user enters an invalid email id and initiates the login process.
+ - Postconditions: An error message appears and the user cannot login until they enter a valid email.
+ - Requirement: Error message should appear on entering an email in incorrect format - Functional Requirements 1.4 (User Authentication).
+
+4. Registered User enters incorrect password
+ - Primary Actor: Registered User
+ - Preconditions: User has an account and is on the login page.
+ - Main Flow: The user enters an incorrect password and initiates the login process.
+ - Postconditions: An error message appears and the user cannot login until they enter the correct password
+ - Requirement: Error message should appear on entering incorrect password - Functional Requirements 1.5 (User Authentication).
+
+5. Registered User does not enter email id or password
+ - Primary Actor: Registered User
+ - Preconditions: User has an account and is on the login page.
+ - Main Flow: The user does not enter email or password and initiates the login process.
+ - Postconditions: An error message appears and the user cannot login until they enter both email and password.
+ - Requirement: Error message should appear on submitting the form without entering either email or password - Functional Requirements 1.6 (User Authentication).
+
+6. Guest User enters invalid email id
+ - Primary Actor: Guest User
+ - Preconditions: User is not logged in and views the registration page.
+ - Main Flow: The user enters invalid email id and submits the form.
+ - Postconditions: An error message appears and the user cannot submit the form until they enter a valid email.
+ - Requirement: Error message should appear on entering an email in incorrect format - Functional Requirement 4.4 (Registration).
+
+7. Guest User enters invalid password
+ - Primary Actor: Guest User
+ - Preconditions: User is not logged in and views the registration page.
+ - Main Flow: The user enters a weak password and submits the form.
+ - Postconditions: An error message appears and the user cannot submit the form until they enter a strong password.
+ - Requirement: Error message should appear on entering a password that is not strong - Functional Requirement 4.5 (Registration).
+
+8. Guest User submits the registration form without filling any details.
+ - Primary Actor: Guest User
+ - Preconditions: User is not logged in and views the registration page.
+ - Main Flow: The user submits a form without entering any details.
+ - Postconditions: An error message appears and the user cannot submit the form without entering valid details for all required fields.
+ - Requirement: User should not be able to submit the registration form without entering valid details for all required fields - Functional Requirement 4.6 (Registration).
 
 Flow Charts:
 
