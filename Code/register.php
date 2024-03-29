@@ -51,6 +51,7 @@ if (isset($_POST['username']) && isset($_POST['email']) && isset($_POST['passwor
     if ($result) {
         // Registration successful
         echo "<script>alert('Registration successful!');</script>";
+        redirect('http://localhost/mydb/login.html');
     } else {
         // Registration failed
         echo "<script>alert('Error: Registration failed. " . mysqli_error($connection) . "');</script>";

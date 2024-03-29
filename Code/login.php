@@ -44,7 +44,7 @@ if (isset($_POST['email']) && isset($_POST['password'])) {
         if (password_verify($password, $hashed_password)) {
             // Password is correct, login successful
             echo "<script>alert('Login successful!');</script>";
-            redirect('http://localhost/mydb/index.html'); 
+            redirect('http://localhost/mydb/search.html'); 
         } else {
             // Invalid password
             echo "<script>alert('Error: Incorrect password.');</script>";
