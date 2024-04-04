@@ -7,7 +7,7 @@ function redirect($url) {
 
 // Check if email and password are provided
 if (isset($_POST['email']) && isset($_POST['password'])) {
-    $email = $_POST['email'];
+    $email = $_POST['email']; 
     $password = $_POST['password']; 
 
     // Validate email format using regular expression
