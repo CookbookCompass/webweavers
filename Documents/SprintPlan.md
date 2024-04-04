@@ -3,7 +3,7 @@
 ## Sprint 1: Design & Mockups of each page.
 - Create user stories for each webpage:
   - Create user stories for Homepage.
-  - Create user stories for login/registration page.
+  - Create user stories for login/registration page. 
   - Create user stories for Recipe detail page.
   - Create user stories for search page
 - Conduct rapid prototyping and gather user feedback through low-fidelity mockups:
