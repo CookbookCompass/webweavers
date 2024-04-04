@@ -4,7 +4,7 @@ ini_set('display_errors', 1);
 
 // Function to redirect to the registration/login page
 function redirect($url) {
-    echo "<script>window.location.href = '$url';</script>";
+    echo "<script>window.location.href = '$url';</script>"; 
     exit;
 }
 
