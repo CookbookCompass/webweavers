@@ -1,7 +1,7 @@
 # REQUIREMENTS
 
 ## NON-FUNCTIONAL REQUIREMENTS
-   
+    
    1. Image embedding
       1. Show thumbnails when searching for dishes
       2. Ensure that the used thumbnails correspond to a full-sized image
