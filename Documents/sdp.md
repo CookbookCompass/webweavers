@@ -4,7 +4,7 @@
 * Meeting details
   * cadence: Weekly meetings on every tuesday and thursday after the class
   * method: In-Person meeting
-  * minutes: 30 to 40 minutes
+  * minutes: 30 to 40 minutes 
   * Document: Meeting minutes will be documented and shared across the team within 24hrs.
 
 ## Development Methodology
