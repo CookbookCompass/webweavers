@@ -44,6 +44,14 @@ if (isset($_POST['username']) && isset($_POST['email']) && isset($_POST['passwor
         redirect('http://localhost/mydb/registration.html'); 
     }
 
+    // Check if username or email already exists
+    $check_query = "SELECT * FROM users WHERE username='$user_username' OR email='$user_email'";
+    $check_result = mysqli_query($connection, $check_query);
+    if (mysqli_num_rows($check_result) > 0) {
+        echo "<script>alert('Error: Username or email already exists.');</script>";
+        redirect('http://localhost/mydb/registration.html'); 
+    }
+
     // Insert user into the database
     $query = "INSERT INTO users (username, email, password) VALUES ('$user_username', '$user_email', '$hashed_password')";
     $result = mysqli_query($connection, $query);
@@ -51,7 +59,7 @@ if (isset($_POST['username']) && isset($_POST['email']) && isset($_POST['passwor
     if ($result) {
         // Registration successful
         echo "<script>alert('Registration successful!');</script>";
-        redirect('http://localhost/mydb/login.html');
+        redirect('http://localhost/mydb/home.html'); 
     } else {
         // Registration failed
         echo "<script>alert('Error: Registration failed. " . mysqli_error($connection) . "');</script>";
