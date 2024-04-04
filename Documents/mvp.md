@@ -5,7 +5,7 @@
 
    1. User Authentication
         1. Users should be able to register for a new account.
-        2. Registered users should be able to login securely.
+        2. Registered users should be able to login securely. 
         3. Passwords should be stored securely and encrypted.
         4. Error message should appear on entering an email in incorrect format.
         5. Error message should appear on entering incorrect password.
