@@ -6,8 +6,6 @@
       1. Show thumbnails when searching for dishes
       2. Ensure that the used thumbnails correspond to a full-sized image
       3. Image captioning is also required
-   2. Auto-logout
-      1. Used to ensure security of the account on all devices
       
 ## FUNCTIONAL REQUIREMENTS
 
@@ -61,6 +59,7 @@
       2. Data Sources: Identify and integrate data sources, which may include APIs for recipe data and user authentication.
       3. Data Models: Define database schema and data models to organize and store information efficiently.
    3. Backend:
-      1. User authentication by checking the data from database, integrating with Java script.
+      1. User management (registration, login, session handling) is handled by PHP scripts, a common practice for web applications.
+      2. Password security is addressed through hashing before storage in the MySQL database, aligning with best practices for user data protection.
    4. Deployment and Infrastructure:
-      1. Web Hosting: Local System Hosting
+      1. Local Hosting: XAMPP is a practical choice for local development and testing, providing an easy-to-set-up environment that includes PHP, MySQL, and other necessary components for running the web application locally.
