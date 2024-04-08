@@ -213,6 +213,8 @@ Mockup:
  - Requirement: User should not be able to submit the registration form without entering valid details for all required fields - Functional Requirement 4.6 (Registration).
 
 Flow Charts:
+<img width="3840" alt="Workflow (6)" src="https://github.com/CookbookCompass/webweavers/assets/149122197/68c54660-5f4b-4c13-8ad2-690b17b1b127">
+<img width="1824" alt="Workflow (5)" src="https://github.com/CookbookCompass/webweavers/assets/149122197/7be8fbdd-1ebe-4ae7-b757-3c3faddfbc5f">
 
 Mockups:
 ![Login](Design_flow_charts/login_page_design.png)
