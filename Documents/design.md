@@ -152,11 +152,6 @@ Mockup:
  - Postconditions: User can read and follow the recipe.
  - Requirements: Viewing the detailed recipe page covers the requirements for displaying images, ingredients, instructions, and cooking videos - Functional Requirements 5.1, 5.2, 5.3 (Recipe Information Page).
 
-
-
-Flow Chart:
-<img width="2704" alt="Recipe Info_FC" src="https://github.com/CookbookCompass/webweavers/assets/149122197/1e9c7ea6-da7c-40aa-a61e-9124082fa765">
-
 Mockup:
 ![Recipe Info](https://github.com/CookbookCompass/webweavers/assets/149122197/0aea7922-51be-482c-81fc-5c282c7233a5)
 
