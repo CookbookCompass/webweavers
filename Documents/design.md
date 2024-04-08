@@ -27,6 +27,12 @@ The purpose of this document is to provide comprehensive technical specification
 
 * Version Control:
    * Git: For version control, allowing multiple developers to work together and manage changes to the project codebase.
+ 
+* Backend:
+   * PHP: For server-side logic, including user authentication and dynamic content generation.
+ 
+* Local Hosting:
+   * XAMPP: Provides an easy-to-set-up environment that includes PHP, MySQL, and other necessary components for running the web application locally. 
 
 ## Interfaces
 * User Interfaces
